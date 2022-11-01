@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.kotak {    
+    margin: 100px auto;
+    width: 70%;
+    height: 600px;
+    border: 2px solid black;
+    text-align: center;
+}
+label {
+    display: block;
+}
+button{
+    padding: 5px;
+    margin: 5px;
+}
+
